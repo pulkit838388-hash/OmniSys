@@ -1,0 +1,6 @@
+{
+  "name": "OmniSys",
+  "description": "Super AMOLED Liquid Glass system utility hub with 1-tap updates for system & 3rd-party apps, real-time device telemetry, and unified accessibility controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

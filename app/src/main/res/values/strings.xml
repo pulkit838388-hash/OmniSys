@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OmniSys</string>
+    <string name="tab_updates">Updates</string>
+    <string name="tab_telemetry">Telemetry</string>
+    <string name="tab_accessibility">Accessibility</string>
+    <string name="tab_history">History</string>
+    <string name="one_tap_update">1-Tap Smooth Update</string>
+    <string name="system_smooth_desc">Optimize RAM, Scan Framework, and Update All Apps</string>
+</resources>
